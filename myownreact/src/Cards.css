@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.card{
+    height: 40vh;
+    width: 30vh;
+    border: 2px solid black;
+    
+    
+}
+.cont{
+    display: flex;
+    gap: 15px;
+    margin-top: 1%;
+
+}
+.para{
+    position: fixed;
+    bottom: 56%;
+
+}
